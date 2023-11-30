@@ -6,8 +6,8 @@ a practice project, I took the idea from "https://youtu.be/3dYMnPYPTS0?si=AOOFkH
 stack overflow and designed a complex data structure, involving doubly linked lists and arrays, to make this game. I did not copy the
 code from the afore mentioned video. The input and collision detection system I designed, works great.
 
-Credits:<br>
+Credits:
 
-Programmer: Tushar Das
-Idea: Project Coding (https://youtu.be/3dYMnPYPTS0?si=AOOFkH-qumIGlL3K)
+Programmer: Tushar Das<br>
+Idea: Project Coding (https://youtu.be/3dYMnPYPTS0?si=AOOFkH-qumIGlL3K)<br>
 Colouring: 
