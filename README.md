@@ -20,4 +20,4 @@ ritdevil206@gmail.com (Rittika Addhya)<br>
 
 Demo:
 
-<video src = "invader.mp4">
+<video src = "invader.mp4" width = 80%/>
