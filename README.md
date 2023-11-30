@@ -20,4 +20,4 @@ ritdevil206@gmail.com (Rittika Addhya)<br>
 
 Demo:
 
-<video src = "invader.mp4" width = 80%/>
+https://github.com/Tushar625/Invader-C-Game-for-Windows-CMD/assets/132126076/de73f1f4-6c46-4ab7-a293-bf2b5491af25
