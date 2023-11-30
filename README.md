@@ -20,8 +20,4 @@ ritdevil206@gmail.com (Rittika Addhya)<br>
 
 Demo:
 
-<video height = 300 width = 700 controls>
-	
-		<source src = "invader.mp4">
-	
-</video>
+<video src = "invader.mp4">
