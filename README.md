@@ -8,6 +8,6 @@ code from afore mentioned video. The input and collision detection system I desi
 
 Credits:
 
-Programmer: Tushar Das<br>
+Programmer: Tushar Das (td9940433@gmail.com)<br>
 Idea: Project Coding (https://youtu.be/3dYMnPYPTS0?si=AOOFkH-qumIGlL3K)<br>
-Colouring: 
+Colouring: Rittika Addhya (ritdevil206@gmail.com)
