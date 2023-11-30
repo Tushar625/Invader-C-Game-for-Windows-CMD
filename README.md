@@ -14,6 +14,6 @@ Colouring: Rittika Addhya
 
 Contact:
 
-Email:
-td9940433@gmail.com (Tushar Das)
-ritdevil206@gmail.com (Rittika Addhya)
+Email:<br>
+td9940433@gmail.com (Tushar Das)<br>
+ritdevil206@gmail.com (Rittika Addhya)<br>
